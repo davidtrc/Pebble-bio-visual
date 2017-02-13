@@ -1,0 +1,91 @@
+{
+    "author": "davidtrc@b105.upm.es",
+    "dependencies": {},
+    "keywords": [],
+    "name": "valoriza",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Valoriza",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/wifi_not_sad",
+                    "name": "WIFI_NOT_SAD",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/wifi_complete",
+                    "name": "WIFI_COMPLETE",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/wifi3",
+                    "name": "WIFI3",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/wifi2",
+                    "name": "WIFI2",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/wifi1",
+                    "name": "WIFI1",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/term_big",
+                    "name": "TERM_BIG",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/term_small",
+                    "name": "TERM_SMALL",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/heart_big",
+                    "name": "HEART_BIG",
+                    "targetPlatforms": [
+                        "aplite"
+                    ],
+                    "type": "png"
+                },
+                {
+                    "file": "images/heart_small",
+                    "name": "HEART_SMALL",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/logo.png",
+                    "menuIcon": true,
+                    "name": "logo",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite"
+        ],
+        "uuid": "1f5d936a-1a75-4b36-8c1e-f62635daf9be",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
